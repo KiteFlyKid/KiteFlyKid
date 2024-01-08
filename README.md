@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KiteFlyKid, a 2rd-year PhD
+- 👋 Hi, I’m @KiteFlyKid, a 2nd-year PhD
 - 👀 I’m interested in the intersection of security with software engineering, human-computer analysis, and data mining
 - 🌱 I’m currently learning on android security
 - 💞️ I’m looking to collaborate on ...
